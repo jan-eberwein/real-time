@@ -1,0 +1,2 @@
+C:\Users\Johannes\source\repos\01-glwf-firstTriangle\VS\x64\Debug\glfw3.dll
+C:\Users\Johannes\source\repos\01-glwf-firstTriangle\VS\01a-Setup_GLWF\x64\Debug\01a-Setu.E85001D0.Up2Date
