@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Johannes\Documents\GitHub\real-time\ex2\project\01-glwf-firstTriangle\src\01b-firstTriangle\main.cpp(398,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  01b-firstTriangle.vcxproj -> C:\Users\Johannes\Documents\GitHub\real-time\ex2\project\01-glwf-firstTriangle\VS\x64\Debug\01b-firstTriangle.exe
+  Der Befehl "pwsh.exe" ist entweder falsch geschrieben oder
+  konnte nicht gefunden werden.
