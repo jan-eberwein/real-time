@@ -49,3 +49,17 @@ logs/
 .prettierignore
 
 # Ignore Git hooks (if not versioning them)
+.husky/
+
+# Ignore Jest and testing cache
+coverage/
+.nyc_output/
+jest-cache/
+jest-stare/
+
+# Ignore Next.js specific files
+.next/
+
+# Ignore any "bin" and ".bin" subfolder inside any directory
+**/bin/
+**/.bin/
