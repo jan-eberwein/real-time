@@ -1,5 +1,0 @@
-﻿  main.cpp
-C:\Users\Johannes\Documents\GitHub\real-time\ex1\project\01-2d-scene\src\01b-firstTriangle\main.cpp(292,46): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
-  01b-firstTriangle.vcxproj -> C:\Users\Johannes\Documents\GitHub\real-time\ex1\project\01-2d-scene\VS\x64\Debug\ex1-2d-scene.exe
-  Der Befehl "pwsh.exe" ist entweder falsch geschrieben oder
-  konnte nicht gefunden werden.

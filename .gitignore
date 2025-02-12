@@ -1,0 +1,51 @@
+# Ignore node_modules (for Node.js projects)
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Ignore build and output directories
+dist/
+build/
+.out/
+.next/
+.vercel/
+.cache/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE and editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore environment variables and secrets
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Ignore logs
+logs/
+*.log
+*.log.*
+*.out
+
+# Ignore dependency lockfiles (if necessary)
+# Uncomment if you want to ignore them
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Ignore TypeScript build artifacts
+*.tsbuildinfo
+
+# Ignore ESLint and Prettier cache files
+.eslintcache
+.prettierignore
+
+# Ignore Git hooks (if not versioning them)
